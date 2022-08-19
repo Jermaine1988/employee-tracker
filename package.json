@@ -1,0 +1,20 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employee.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node employee.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jermaine1988/employee-tracker"
+  },
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
