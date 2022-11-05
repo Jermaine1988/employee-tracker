@@ -1,5 +1,7 @@
 
 # Employee Tracker
+# Description 
+Build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 # Acceptance Criteria
 GIVEN a command-line application that accepts user input
 
